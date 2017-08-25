@@ -1,1 +1,4 @@
-name: Kay
+devMode: true
+spring:
+  application:
+    name: totoro-clien
