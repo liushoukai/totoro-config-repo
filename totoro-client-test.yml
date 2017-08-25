@@ -2,3 +2,4 @@ devMode: true
 spring:
   application:
     name: totoro-clien
+message: test profile win!
