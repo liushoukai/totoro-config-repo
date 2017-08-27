@@ -1,1 +1,5 @@
-
+devMode: true
+spring:
+  application:
+    name: totoro-gearman-service
+message: [totoro-gearman-service][development]
